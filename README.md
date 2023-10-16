@@ -1,4 +1,4 @@
-![image](https://github.com/reza7angkasa/php-native-age-and-horoscope-sign/assets/72240159/fa5b6966-6017-41df-b59d-f4e8b2c4d13b)# php-native-age-and-horoscope-sign
+php-native-age-and-horoscope-sign
 application to count your age and get to know your horoscope sign
 
 Preview:
