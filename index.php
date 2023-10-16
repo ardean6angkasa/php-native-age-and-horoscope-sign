@@ -83,7 +83,7 @@
       </select>
       /
       <select id="days" name="tanggal" style="width:60px">
-        <option></option>
+        <option>--</option>
       </select>
       <br>
       <br>
